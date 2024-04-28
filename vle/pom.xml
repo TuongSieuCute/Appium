@@ -41,6 +41,7 @@
         <scope>test</scope>
     </dependency>
 
+
   </dependencies>
 
   <build>
@@ -91,7 +92,7 @@
           <version>3.2.5</version>
           <configuration>
             <suiteXmlFiles>
-              <suiteXmlFile>src/test/java/appium/testsuite/setEmailPass.xml</suiteXmlFile>
+              <suiteXmlFile>src/test/java/appium/testNG.xml</suiteXmlFile>
             </suiteXmlFiles>
           </configuration>
         </plugin>

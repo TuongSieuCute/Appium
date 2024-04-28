@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1">
   <test name="Test1">
     <classes>
-      <class name="appium.testcase.testLogin"/>
+      <class name="appium.loginTest"/>
     </classes>
   </test>
 </suite>
