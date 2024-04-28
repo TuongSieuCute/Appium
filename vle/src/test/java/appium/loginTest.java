@@ -38,7 +38,7 @@ public class loginTest {
 
     @Test
     public void testLogin() throws InterruptedException {
-        String csvFile = "C:\\Users\\Administrator\\Desktop\\Appium\\vle\\src\\test\\java\\appium\\testcase\\taikhoan.txt";
+        String csvFile = "C:\\Users\\Administrator\\Desktop\\Appium\\vle\\src\\test\\java\\appium\\taikhoan.txt";
         String line = "";
         String cvsSplitBy = ",";
 
