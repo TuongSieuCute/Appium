@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNGTest-21b34bc1-7a6c-4399-a23e-22df06535c43"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="44.070">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testLogin"
+                time="44.070"
+                classname="appium.loginTest">
+            </testcase>
+</testsuite>
